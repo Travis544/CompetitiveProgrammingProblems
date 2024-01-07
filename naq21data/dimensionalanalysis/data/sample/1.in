@@ -1,0 +1,6 @@
+5
+velocity * time = length
+frequency = 1 / time
+acceleration = velocity / time
+force = mass * acceleration
+force = mass * length / time / time

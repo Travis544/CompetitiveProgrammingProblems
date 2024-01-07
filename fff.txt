@@ -1,0 +1,4 @@
+ fraction of actual time within the normal change of distance
+---so (gps time-previous  time)/change of time recorded for normal run. ===within this time range, how many actual distance is tracked by gps. What percentage is that--delta
+
+---multiply total change in distance runner tracked over this period of time. 
